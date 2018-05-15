@@ -3,6 +3,8 @@ Study plan for Robotics, self-driving Vehicle and Programming.
 
 Programming: 
 1. Modern c++ for Computer vision and Image Processing, University of Bonn.
+2. C++程序设计 (Peking University)
+https://www.coursera.org/learn/cpp-chengxu-sheji
 2. PCL tutorial 
 3. ROS
 
