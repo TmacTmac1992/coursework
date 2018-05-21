@@ -2,11 +2,27 @@
 Study plan for Robotics, self-driving Vehicle and Programming.
 
 Programming: 
-1. Modern c++ for Computer vision and Image Processing, University of Bonn.
-2. C++程序设计 (Peking University)
+1. C++程序设计 (Peking University)
 https://www.coursera.org/learn/cpp-chengxu-sheji
-2. PCL tutorial 
-3. ROS
+
+Data Structure:
+
+Algorithm:
+
+2. Modern c++ for Computer vision and Image Processing, University of Bonn.
+3. PCL tutorial 
+4. ROS
+5. OpenCV
+6.Python
+
+Open Source code reading:
+1. Autoware:
+2. apollo:
+
+
+Math:
+
+
 
 Self-driving Car:
 1. Udacity self-driving Car Engineer NanoDegree ( ~ - 6/23/2018)
